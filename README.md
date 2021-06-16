@@ -2,11 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The site is published at https://rahulseth625.github.io/ReactWeb/
+
 ## Available Scripts
 
 In the project directory, you can run:
 
 At First Install npm -  'npm install'
+
+After that run the application by using below command
 
 ### `npm start`
 
