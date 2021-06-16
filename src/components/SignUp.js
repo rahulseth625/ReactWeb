@@ -80,7 +80,7 @@ export default class SignUp extends Component {
                                 <input type="password" onChange={this.onChangePassword} placeholder="Enter Password" required />
                             </div>
                         </div>
-                        <button type="submit" style = {{ width:1245, marginLeft : 38 }} className="btn btn-primary btn-block">Submit</button>
+                        <button type="submit" className="btn btn-primary btn-block">Submit</button>
                     </form>
                 </div>
 
